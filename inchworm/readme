@@ -1,0 +1,2 @@
+in terminal type "g++ -o main inchworm.h inchworm.cpp" to compile
+in terminal type "./main" to run the tests cases.
